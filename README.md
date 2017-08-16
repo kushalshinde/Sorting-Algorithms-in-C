@@ -2,10 +2,12 @@
 Implementation of Insertion Sort, Counting Sort, Merge Sort and Randomized Quick Sort
 
 
+
 Name :- Kushal S Shinde
-Bno :- 
+
+Bno :- B0XXXXXX5
+
 Email:- kshinde1@binghamton.edu
----------------------------------------------------------------
 
 Algorithm Project 1
 
